@@ -1,37 +1,57 @@
-# 基于SSH的企业人事管理系统8
+# 基于SSH的企业人事管理系统
 
-#### 介绍
+## 获取方式
+
+扫描下方，回复关键词  ：**员工8** ，获取完整版源码
+
+![https://gitee.com/](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202205281253739.png)
+
+## 1、项目介绍
+
 基于SSH的企业人事管理系统拥有管理员用户角色，可以对部门、员工和工资进行增删改查，功能简单，适合学习
 
-#### 软件架构
-软件架构说明
+
+## 2、项目技术
+
+后端框架：SSH
+
+前端框架：Bootstrap、jsp、css、JavaScript、JQuery
+
+## 3、开发环境
+
+- JAVA版本：JDK1.8，其它版本理论上可以
+- IDE类型：IDEA、Eclipse、Myeclipse都可以。推荐IDEA与Eclipse
+- tomcat版本：Tomcat 7.x、8.x、9.x、10.x版本均可
+- 数据库版本：MySql 5.x
+- maven版本：无限制
+- 硬件环境：Windows 或者 Mac OS
 
 
-#### 安装教程
+## 4、功能介绍
 
-1.  xxxx
-2.  xxxx
-3.  xxxx
+### 4.1 登录注册
 
-#### 使用说明
+![登录](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202206201459327.jpg)
 
-1.  xxxx
-2.  xxxx
-3.  xxxx
+![注册](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202206201459541.jpg)
 
-#### 参与贡献
+### 4.2 管理员模块
 
-1.  Fork 本仓库
-2.  新建 Feat_xxx 分支
-3.  提交代码
-4.  新建 Pull Request
+![部门管理](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202206201459170.jpg)
+
+![员工管理](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202206201459780.jpg)
+
+![修改员工信息](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202206201459362.jpg)
+
+![工资管理](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202206201459279.jpg)
+
+![编辑员工工资](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202206201500006.jpg)
+
+## 5、获取方式
+
+扫描下方，回复关键词  ：**员工8**
 
 
-#### 特技
 
-1.  使用 Readme\_XXX.md 来支持不同的语言，例如 Readme\_en.md, Readme\_zh.md
-2.  Gitee 官方博客 [blog.gitee.com](https://blog.gitee.com)
-3.  你可以 [https://gitee.com/explore](https://gitee.com/explore) 这个地址来了解 Gitee 上的优秀开源项目
-4.  [GVP](https://gitee.com/gvp) 全称是 Gitee 最有价值开源项目，是综合评定出的优秀开源项目
-5.  Gitee 官方提供的使用手册 [https://gitee.com/help](https://gitee.com/help)
-6.  Gitee 封面人物是一档用来展示 Gitee 会员风采的栏目 [https://gitee.com/gitee-stars/](https://gitee.com/gitee-stars/)
+![https://gitee.com/](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202205281253739.png)
+

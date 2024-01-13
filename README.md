@@ -1,10 +1,4 @@
-# 基于SSH的企业人事管理系统
-
-## 获取方式
-
-扫描下方，回复关键词  ：**员工8** ，获取完整版源码
-
-![https://gitee.com/](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202205281253739.png)
+# 基于SSH的企业人事管理系统8
 
 ## 1、项目介绍
 
@@ -31,27 +25,24 @@
 
 ### 4.1 登录注册
 
-![登录](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202206201459327.jpg)
+![登录](https://www.codeshop.fun/Typora-Images/202206201459327.jpg)
 
-![注册](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202206201459541.jpg)
+![注册](https://www.codeshop.fun/Typora-Images/202206201459541.jpg)
 
 ### 4.2 管理员模块
 
-![部门管理](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202206201459170.jpg)
+![部门管理](https://www.codeshop.fun/Typora-Images/202206201459170.jpg)
 
-![员工管理](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202206201459780.jpg)
+![员工管理](https://www.codeshop.fun/Typora-Images/202206201459780.jpg)
 
-![修改员工信息](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202206201459362.jpg)
+![修改员工信息](https://www.codeshop.fun/Typora-Images/202206201459362.jpg)
 
-![工资管理](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202206201459279.jpg)
+![工资管理](https://www.codeshop.fun/Typora-Images/202206201459279.jpg)
 
-![编辑员工工资](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202206201500006.jpg)
+![编辑员工工资](https://www.codeshop.fun/Typora-Images/202206201500006.jpg)
 
-## 5、获取方式
+## 获取方式
 
-扫描下方，回复关键词  ：**员工8**
+下方扫一扫关注后，后台回复关键词：**员工**，查看导入教程视频、sql脚本和源码等
 
-
-
-![https://gitee.com/](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202205281253739.png)
-
+ ![](https://www.codeshop.fun/Typora-Images/202205281253739.png)
